@@ -1,0 +1,79 @@
+--------------- Welcome to Uber ---------------
+--------- Current Date :  Wed Dec 01 10:52:18 AST 2021--------
+Command: Print_Report
+
+		--- Rider Detail are as Follows: ---
+
+			ID: 22009
+			Name: Ibrahim_AlHamaidi
+			Email: ibrahim@yahoo.com
+			Date of Birth: Fri May 05 00:00:00 AST 3882
+			Gender: M
+			Phone: 507803485
+			Address: Riyadh
+-------------------------------------------------------------------------------------------
+
+			Wallet Balance: 0.0 SAR,
+
+			Pickup Location: Rehab,
+
+			Drop Location: AlSafa,
+
+			Distance: 10.6KM,
+
+			Joining Date: Mon Apr 05 00:00:00 AST 3915,
+
+			Rider Rating: 3.6
+-------------------------------------------------------------------------------------------
+		--- Captain Detail are as Follows: ---
+
+			ID: 509
+			Name: Nassr_Alqahtani
+			Email: nassr42@yahoo.com
+			Date of Birth: Sun Jul 30 00:00:00 AST 3865
+			Gender: M
+			Phone: 547803485
+			Address: Kandara
+
+			Employee ID: 3325
+			Employee Description: Full_time
+			On leave: false
+			Driving License No: 74545435
+			Total Rides: 368
+			Rating :4.45
+                         ----------------------------------------------------------------
+		--- UberAdmin Detail are as Follows: ---
+
+			ID: 804
+			Name: Liaqat_Jalal
+			Email: liaqat@uber.com
+			Date of Birth: Sun Nov 25 00:00:00 AST 3888
+			Gender: M
+			Phone: 547674174
+			Address: Balad
+
+			Employee ID: 1086
+			Employee Description: Manager
+			On leave: false
+			Department: OperationPOOL
+                         ----------------------------------------------------------------
+		---Payment Details are as follows:---
+			Payment ID: 301
+			Payment Description: Cash
+			Payment Amount :10.5
+
+			-------------------------------------------------------------------------------------------
+		---Bonus Details are as follows:---
+
+			BonusID: 901
+			Bonus Description:  Newly_Joined
+			bonus Kilometer(s) :17.0
+			-------------------------------------------------------------------------------------------
+		---Ride Details are as follows:---
+Ride Details are as follows:
+
+			Ride ID: 5009
+			Ride Type: Pool
+			Number of Seats: 4
+			Registration No.: UAI731
+			-------------------------------------------------------------------------------------------
